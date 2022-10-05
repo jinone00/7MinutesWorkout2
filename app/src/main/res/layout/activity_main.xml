@@ -51,7 +51,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="BM2I"
+            android:text="BM23I"
             android:textColor="@color/white"
             android:textSize="@dimen/default_button_text_size"
             android:textStyle="bold" />
